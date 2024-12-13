@@ -56,3 +56,6 @@ streamlit run app.py
 ## Contributing
 
 Contributions are welcome! If you would like to add features or fix issues, please fork the repository and submit a pull request.
+
+## Author
+Aman Singh Chauhan
